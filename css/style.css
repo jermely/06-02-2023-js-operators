@@ -1,0 +1,15 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightblue;
+}
+
+input {
+  height: 120px;
+  width: 360px;
+  text-align: center;
+  border-radius: 44px;
+  font-size: 30px;
+}
